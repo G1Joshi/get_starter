@@ -1,0 +1,3 @@
+class URLs {
+  URLs._();
+}

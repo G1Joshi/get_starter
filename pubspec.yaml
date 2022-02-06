@@ -1,0 +1,27 @@
+name: get_starter
+description: GetX Starter Project Template
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.4
+  dio: ^4.0.4
+  get: ^4.6.1
+  get_cli: ^1.7.1
+  get_storage: ^2.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
